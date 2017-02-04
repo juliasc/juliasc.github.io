@@ -1,0 +1,20 @@
+h1 {
+  color: #bd1550;
+}
+h2 {
+  color: #490a3d;
+}
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1426869884541-df7117556757');
+  background-size: 100vw;
+  background-attachment: fixed;
+}
+
+.center {
+  text-align: center;
+}
+
+.recipe-image {
+  width: 100vw;
+}
